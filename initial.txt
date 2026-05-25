@@ -3,3 +3,4 @@ This line was added from GitHub web interface
 Soft reset test line
 Line 1 for patch
 Line 2 for patch
+Updated from b1
