@@ -1,6 +1,8 @@
+
 This is initial file
 This line was added from GitHub web interface
-CONFLICT LINE from b2
+RESOLVED: Combined changes from b2 and b3
 Line 1 for patch
 Line 2 for patch
 Updated from b1
+Change 1
